@@ -1,4 +1,4 @@
-export default class Valor {
+export default class Precio {
     constructor(valor){
         this.valor = valor
     }
