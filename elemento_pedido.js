@@ -1,5 +1,5 @@
-import Precio from "/.precio.js"
-class ElementoP {
+import Precio from "./precio.js"
+export default class ElementoP {
     constructor(producto, cantidad){
         this.producto = producto
         this.cantidad = cantidad
